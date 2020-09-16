@@ -1,5 +1,5 @@
 {
-    "name": "bref/laravel-bridge",
+    "name": "marvinosswald/laravel-bridge",
     "license": "MIT",
     "type": "project",
     "description": "Package that makes Laravel work on AWS Lambda with Bref",
@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.3",
         "ext-json": "*",
-        "bref/bref": "~0.5.20",
+        "bref/bref": "~0.5.30",
         "illuminate/queue": "^6.0|^7.0|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0",
         "aws/aws-sdk-php": "^3.134"
